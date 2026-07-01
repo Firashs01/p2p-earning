@@ -1,0 +1,37 @@
+{
+  "trades": [
+    {
+      "id": 1,
+      "type": "SELL",
+      "quantity": "120.00000000",
+      "rate": "3.5000",
+      "fee": "0.0000",
+      "createdAt": "2026-07-01T14:31:31.463Z"
+    },
+    {
+      "id": 2,
+      "type": "BUY",
+      "quantity": "120.00000000",
+      "rate": "3.1000",
+      "fee": "0.0000",
+      "createdAt": "2026-07-01T14:31:38.639Z"
+    }
+  ],
+  "archive": [
+    {
+      "month": "June",
+      "year": 2026,
+      "revenue": "15.000"
+    },
+    {
+      "month": "May",
+      "year": 2026,
+      "revenue": "22.500"
+    },
+    {
+      "month": "April",
+      "year": 2026,
+      "revenue": "18.200"
+    }
+  ]
+}
